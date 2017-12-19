@@ -1,1 +1,2 @@
-pushed this straight to master
+pushed this straight to master.
+Adding gitignore to this
