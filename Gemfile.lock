@@ -54,6 +54,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   nokogiri
   parallel
   parallel_tests
