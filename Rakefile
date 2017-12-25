@@ -9,6 +9,6 @@ require 'rake'
 #end
 
 task :allspec do
-  ruby "spec/just_demo_spec.rb"
+  rspec "spec/just_demo_spec.rb"
 end
 
