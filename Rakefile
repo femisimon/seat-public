@@ -1,4 +1,5 @@
 require 'rake'
+require 'rspec'
 # require 'rspec/core/rake_task'
 
 RSpec::Core::RakeTask.new(:allspec) do |t|
