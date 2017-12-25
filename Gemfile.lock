@@ -67,4 +67,4 @@ DEPENDENCIES
   selenium-webdriver (~> 2.53, >= 2.53.4)
 
 BUNDLED WITH
-   1.15.3
+   1.16.0
