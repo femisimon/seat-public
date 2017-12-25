@@ -1,5 +1,5 @@
 require 'rake'
-require 'rspec-core'
+require 'rspec/core'
 
 RSpec::Core::RakeTask.new(:allspec) do |t|
   t.pattern = Dir.glob('/spec/*_spec.rb')
